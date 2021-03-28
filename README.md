@@ -6,7 +6,7 @@ The main reason to do this project is to analyse the expected trend versus the o
 It also shows the main purpose of making the data stationary with dickey-fuller test before performing the analysis.
 It also shows the use of Auto Regressive and Moving Average approach to perform the Analysis.
 
-#Challenges
+# Challenges
 
 Previously , I use to perform Time Series Analysis on data using pen and paper with different forms of calculation.
 In the beginning it was little confusing when I decided to implement it using Python but then I realised that rather doing a huge calculation the amazing libraries of python 
